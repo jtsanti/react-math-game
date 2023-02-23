@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Math Game
+I created this app as a side project while going through the JavaScript Dev Program with UCF to get a better handle on React
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
